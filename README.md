@@ -10,6 +10,8 @@ For the time being in Beijing, China, I'm researching on:
 * :art: [Open Source](https://www.google.com/search?q=open+source): for learning the `philosophy`, and building bricks for `China's` open source ecology
  step by step!
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hylerrix" />
+
 About Deno, I focused on [deno-tutorial](https://github.com/hylerrix/deno-tutorial)(Chinese Version) repo for now, and have a lot of ideas about its future.
 
 And I'm a big fan of indie games and excellent cinema. Building a home theater and connecting to my self-made Home LAN is my long term goal.
