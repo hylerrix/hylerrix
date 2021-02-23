@@ -61,45 +61,6 @@
   </tr>
   <tr>
     <td>
-      <img alt="Frontend Tooltain" src="https://img.shields.io/badge/-👉%20%20%20Frontend%20Tooltain-000?" />
-      <a href=""><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
-      <a href=""><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
-      <a href=""><img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
-      <a href=""><img alt="Echarts" src="https://img.shields.io/badge/-Echarts-F9A03C?style=flat-square&logo=echarts&logoColor=white" /></a>
-      <a href=""><img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-E34F26?style=flat-square&logo=material&logoColor=white" /></a>
-      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components*-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-      <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind*-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Backend Tooltain" src="https://img.shields.io/badge/-👉%20%20%20Backend%20Tooltain-000?" />
-      <a href=""><img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /></a>
-      <a href=""><img alt="Express" src="https://img.shields.io/badge/-Express-ea2845?style=flat-square&logo=express&logoColor=white" /></a>
-      <a href=""><img alt="Koa" src="https://img.shields.io/badge/-Koa-ea2845?style=flat-square&logo=koa&logoColor=white" /></a>
-      <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href=""><img alt="ECMAScript Tooltain" src="https://img.shields.io/badge/-👉%20ECMAScript%20Tooltain-000?" /></a>
-      <a href=""><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /></a>
-      <a href=""><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-      <a href=""><img alt="Prettier*" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></a>
-      <a href=""><img alt="TSLint" src="https://img.shields.io/badge/-TSLint-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Cloud Tooltain" src="https://img.shields.io/badge/-👉%20%20%20Cloud%20Tooltain-000?" />
-      <a href=""><img alt="github actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
-      <a href=""><img alt="AWS" src="https://img.shields.io/badge/-AWS*-000?&logo=Amazon-AWS&logoColor=fff" /></a>
-      <a href=""><img alt="Pagic" src="https://img.shields.io/badge/-Pagic-000?&logo=Amazon-AWS&logoColor=fff" /></a>
-      <a href=""><img alt="CMS" src="https://img.shields.io/badge/-CMS*-000?&logo=Amazon-AWS&logoColor=fff" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img alt="Browser Skill" src="https://img.shields.io/badge/-👉%20%20%20Browser%20Skill-000?" />
       <a href=""><img alt="JAMstack" src="https://img.shields.io/badge/-JAMstack*-db7092?style=flat-square&logo=styled-components&logoColor=white" />
       <a href=""><img alt="PWA" src="https://img.shields.io/badge/-PWA*-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -137,6 +98,45 @@
       <a href=""><img alt="OAuth" src="https://img.shields.io/badge/-OAuth*-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
       <a href=""><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes*-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
       <a href=""><img alt="Docker" src="https://img.shields.io/badge/-Docker*-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Frontend Tooltain" src="https://img.shields.io/badge/-👉%20%20%20Frontend%20Tooltain-000?" />
+      <a href=""><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
+      <a href=""><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
+      <a href=""><img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
+      <a href=""><img alt="Echarts" src="https://img.shields.io/badge/-Echarts-F9A03C?style=flat-square&logo=echarts&logoColor=white" /></a>
+      <a href=""><img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-E34F26?style=flat-square&logo=material&logoColor=white" /></a>
+      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components*-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+      <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind*-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Backend Tooltain" src="https://img.shields.io/badge/-👉%20%20%20Backend%20Tooltain-000?" />
+      <a href=""><img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" /></a>
+      <a href=""><img alt="Express" src="https://img.shields.io/badge/-Express-ea2845?style=flat-square&logo=express&logoColor=white" /></a>
+      <a href=""><img alt="Koa" src="https://img.shields.io/badge/-Koa-ea2845?style=flat-square&logo=koa&logoColor=white" /></a>
+      <a href=""><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href=""><img alt="ECMAScript Tooltain" src="https://img.shields.io/badge/-👉%20ECMAScript%20Tooltain-000?" /></a>
+      <a href=""><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /></a>
+      <a href=""><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+      <a href=""><img alt="Prettier*" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></a>
+      <a href=""><img alt="TSLint" src="https://img.shields.io/badge/-TSLint-F7B93E?style=flat-square&logo=prettier&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Cloud Tooltain" src="https://img.shields.io/badge/-👉%20%20%20Cloud%20Tooltain-000?" />
+      <a href=""><img alt="github actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /></a>
+      <a href=""><img alt="AWS" src="https://img.shields.io/badge/-AWS*-000?&logo=Amazon-AWS&logoColor=fff" /></a>
+      <a href=""><img alt="Pagic" src="https://img.shields.io/badge/-Pagic-000?&logo=Amazon-AWS&logoColor=fff" /></a>
+      <a href=""><img alt="CMS" src="https://img.shields.io/badge/-CMS*-000?&logo=Amazon-AWS&logoColor=fff" /></a>
     </td>
   </tr>
   <tr>
@@ -204,23 +204,9 @@
   </tr>
 </table>
 
-<h2>:heart: Live like a Cinema director</h2>
+<!-- <h2>:sunrise: Application Project</h2> -->
 
-<!-- Music Now I listening to, or just "Prey for Me" -->
-
-Github & Open Source is fantastic, isn't it? For the time being in Beijing, China, 2021, I'm trying to focus on:
-
-* :tv: **Frontend Architecture**: `JAMStack`, `Micro Frontends` & `Serverless`, plus: Operate a `Business Server` for `NingoWood`.
-* :sauropod: **Deno**: Through [`deno-feedly`](https://github.com/hylerrix/deno-feedly) repo, starting to pay attention to the Deno international community every week.
-* :space_invader: **Deno(Chinese)**: Make contribute around [`deno-tutorial`](https://github.com/hylerrix/deno-tutorial)repo, and effectuate various good ideas about its future.
-* :clown_face: **React**: Through [`react-v17-handbook`](https://github.com/hylerrix/react-v17-handbook) repo, grasp React & Frontend deeper 'n' deeper.
-* :open_book: **Open Source**: Through [`open-source-magazine`](https://github.com/ningowood/open-source-magazine), building bricks for `China's` open source ecology step by step!
-* :writing_hand: **Writing**: Start writing more English original articles from scratch, about `Programming` & `Life` in [`hylerrix.com`](https://github.com/hylerrix/hylerrix.com) repo.
-* :art: **English**: Yeah, of course. I feel so ignorant about everything in English World, embracing a more different culture is the thing that I wish, want, and must have to do.
-
-And I'm a big fan of indie games and excellent cinema. Building a home theater and connecting to my self-made Home LAN is my long term goal.
-
-<h2>:sunrise: Important Project</h2>
+<h2>:sunrise: Ebook & Practice Project</h2>
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <thead align="center">
@@ -235,11 +221,27 @@ And I'm a big fan of indie games and excellent cinema. Building a home theater a
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/hylerrix/deno-tutorial"><b>Deno Tutorial - Chinese</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/hylerrix/deno-tutorial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/hylerrix/deno-tutorial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/hylerrix/deno-tutorial?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hylerrix/deno-tutorial?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hylerrix/es-interview"><b>ECMAScript+ Interview - Chinese</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/hylerrix/es-interview?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/hylerrix/es-interview?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/hylerrix/es-interview?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hylerrix/es-interview?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/hylerrix/deno-algorithm"><b>Deno Algorithm</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/hylerrix/deno-algorithm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/hylerrix/deno-algorithm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/hylerrix/deno-algorithm?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hylerrix/deno-algorithm?style=flat-square&labelColor=343b41"/></td>
       <td></td>
     </tr>
   </tbody>
@@ -247,14 +249,16 @@ And I'm a big fan of indie games and excellent cinema. Building a home theater a
 
 <h2>:robot: Recent GitHub Activity</h2>
 
+> robot TBD
+
 <!--START_SECTION:activity-->
 
-`[12/23 08:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) 
+<!-- `[12/23 08:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) 
 
 <details><summary>Show More</summary>
 
 `[12/20 18:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)
-</details>
+</details> -->
 
 <!--END_SECTION:activity-->
 
@@ -280,6 +284,8 @@ Need to think the center writing platform and make a robot for this.
 </ul> -->
 
 <h2>:sparkles: My Followers</h2>
+
+> robot TBD
 
 Thx for following me!
 
