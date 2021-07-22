@@ -21,6 +21,20 @@ Is that enough for me to know the entire surface about the Big FrontEnd? Nooooo,
   * Google Drive
 -->
 
+<!-- 
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/matchai/awesome-pinned-gists
+https://github.com/matchai/waka-box
+https://github.com/dwyl/hits
+https://hitsofcode.com/generate
+https://github.com/athul/waka-readme
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+Example:
+
+https://github.com/Gapur
+ -->
+
 <!--
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
