@@ -11,28 +11,30 @@
 
 <h2>:merman: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=hylerrix&style=flat-square"></h2>
 
-> [你好，我是凝尘 (Hylerrix)](https://lifetable.feishu.cn/wiki/TPCdwDi44iCXojkazI4clA5Onyg)
+> [你好，我是凝尘 (Hylerrix)](http://lifetable.feishu.cn/wiki/TPCdwDi44iCXojkazI4clA5Onyg)
 
-I'm mainly focusing on building the next generation all-in-one database sharing community [Lifetable.ai](https://lifetable.ai) now, proudly using `React v18` and `Next.js v14`.
+In Open Source community, 2024, I'm mainly focusing on building the next generation all-in-one database sharing community [Lifetable.ai](http://lifetable.ai) now (See above line for more in Chinese introduce), proudly using `React v18`, `Next.js v14` and more.
+
+Thanks for clicking 'Follow' to knowing the next step!
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td>
       <!-- <a href=""> -->
-      <img height="128px" src="./assets/hylerrix-github-review-2023.webp" />
+      <img height="50%" src="./assets/hylerrix-github-review-2023.webp" />
       <!-- </a> -->
     </td>
     <td>
       <!-- <a> -->
-      <img height="128px" src="./assets/self-taught-engineer.webp" />
+      <img height="50%" src="./assets/self-taught-engineer.webp" />
       <!-- </a> -->
     </td>
   </tr>
 </table>
 
-<h2>:sunrise: Let's build <a src="https://lifetable.ai" target="__blank">Lifetable.ai</a> for 2024!</h2>
+<h2>:sunrise: Let's build <a src="http://lifetable.ai" target="__blank">Lifetable.ai</a> for 2024!</h2>
 
-> [欢迎来到 Lifetable.ai 凝搭社区！](https://lifetable.feishu.cn/wiki/DTNKwjQQJiVuv6kDd5jc5W0Xnjh)
+> [欢迎来到 Lifetable.ai 凝搭社区！](http://lifetable.feishu.cn/wiki/DTNKwjQQJiVuv6kDd5jc5W0Xnjh)
 
 <table>
   <tbody>
@@ -72,6 +74,8 @@ I'm mainly focusing on building the next generation all-in-one database sharing 
     </td>
   </tr>
 </table>
+
+![](https://profile-counter.glitch.me/hylerrix/count.svg)
 
 <!-- <h2>:robot: My latest posts</h2>
 
