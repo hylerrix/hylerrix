@@ -1,12 +1,17 @@
 <h1>:merman: Hi!</h1>
 
 <p>
+<img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-7ea89c?style=flat&logo=OpenAI&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Next" src="https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
 <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-AA6744?style=flat&logo=Rust&logoColor=white" />
 <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=white" />
+</p>
+
+<p align="center">
+<img align="center" width="100%" src="./assets/animated-line-train-github-theme.gif">
 </p>
 
 <h2>:merman: About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=hylerrix&style=flat-square"></h2>
@@ -76,6 +81,8 @@ Thanks for clicking 'Follow' to knowing the next step!
 </table>
 
 ![](https://profile-counter.glitch.me/hylerrix/count.svg)
+
+<img src="./assets/animated-dividing-line-image.gif" width="100%" loop="-1"/>
 
 <!-- <h2>:robot: My latest posts</h2>
 
