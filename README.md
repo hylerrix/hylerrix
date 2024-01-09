@@ -7,6 +7,7 @@
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
 <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-AA6744?style=flat&logo=Rust&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-5cbbf6?style=flat&logo=TailwindCSS&logoColor=white" />
 <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=flat&logo=Deno&logoColor=white" />
 </p>
 
@@ -65,6 +66,20 @@ Thanks for clicking 'Follow' to knowing the next step!
 
 ![](profile-3d-contrib/profile-gitblock.svg)
 
+<p align="center">
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=hylerrix&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=hylerrix&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hylerrix&show_icons=true" width="44%" />
+</picture>
+&nbsp;
+<picture>
+  <source srcset="https://streak-stats.demolab.com/?user=hylerrix&theme=jolly&border=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com/?user=hylerrix&theme=catppuccin_latte&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://streak-stats.demolab.com/?user=hylerrix" width="40%" />
+</picture>
+</p>
+
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td>
@@ -80,7 +95,13 @@ Thanks for clicking 'Follow' to knowing the next step!
   </tr>
 </table>
 
-![](https://profile-counter.glitch.me/hylerrix/count.svg)
+<summary>More About Me in Charts</summary>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hylerrix">
+  <br />
+  <img src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=hylerrix&layout=compact&langs_count=8">
+  <br />
+  <img src="https://profile-counter.glitch.me/hylerrix/count.svg">
+</details>
 
 <img src="./assets/animated-dividing-line-image.gif" width="100%" loop="-1"/>
 
