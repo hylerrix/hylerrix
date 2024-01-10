@@ -51,17 +51,6 @@ Thanks for clicking 'Follow' to knowing the next step!
   </tbody>
 </table>
 
-<!--START_SECTION:activity-->
-
-<!-- `[12/23 08:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) 
-
-<details><summary>Show More</summary>
-
-`[12/20 18:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)
-</details> -->
-
-<!--END_SECTION:activity-->
-
 <h2>:heart: Statistics for my Open-Source-Love</h2>
 
 ![](profile-3d-contrib/profile-gitblock.svg)
@@ -104,6 +93,17 @@ Thanks for clicking 'Follow' to knowing the next step!
 </details>
 
 <img src="./assets/animated-dividing-line-image.gif" width="100%" loop="-1"/>
+
+<!--START_SECTION:activity-->
+
+<!-- `[12/23 08:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) 
+
+<details><summary>Show More</summary>
+
+`[12/20 18:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//cheesits456/discord-ssh-bot/issues/9 'Can´t read property') in [cheesits456/discord-ssh-bot](https://github.com/cheesits456/discord-ssh-bot)
+</details> -->
+
+<!--END_SECTION:activity-->
 
 <!-- <h2>:robot: My latest posts</h2>
 
